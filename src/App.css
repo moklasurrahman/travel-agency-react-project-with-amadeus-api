@@ -1,0 +1,101 @@
+
+#one-way-radio{
+    accent-color: #8e2157 !important; 
+}
+#round-way-radio{
+    accent-color: #8e2157 !important; 
+}
+#multi-city-radio{
+    accent-color: #8e2157 !important; 
+}
+
+
+
+
+
+
+.rdrSelected{
+    background-color: #8e2157 !important;
+}
+/* .rdrDateDisplay{
+    display: none !important;
+} */
+.rdrDefinedRangesWrapper{
+    display: none !important;
+}
+
+.rdrCalendarWrapper{
+    width: 100% !important;
+    background-color: transparent !important;
+    font-size: 12px !important;
+}
+.dateRange{
+    /* position: absolute; */
+    background-color: white;   
+}
+.rdrMonth{
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+
+.rdrMonth {
+    width: 100% !important;
+}
+
+.rdrStartEdge {
+    color: #8e2157 !important;
+}
+.rdrEndEdge {
+    color: #8e2157 !important;
+}
+
+.rdrDayToday .rdrDayNumber span:after{
+    background-color: #8e2157 !important;
+}
+
+span:after{
+    border: 1px solid #8e2157 !important;
+}
+
+
+.rdrNextPrevButton {
+    background: #8e215788 !important;
+}
+
+.rdrDateDisplayWrapper{
+    display: none !important
+}
+
+
+.rdrDayDisabled {
+    background-color: #f8f8f8 !important;
+}
+
+    
+
+    
+    /* .rdrMonthAndYearWrapper{
+      height: 50px !important
+    } */
+ 
+   
+    /* .rdrMonthName{
+     
+    } */
+ 
+    /* .rdrWeekDays{
+      font-size: 149px !important
+    } */
+ 
+    .rdrInRange{
+      background-color: #4d102e98 !important
+    }
+    .rdrDayStartPreview {
+      border: 1px solid #4d102e98 !important;
+    } 
+    
+    /* .rdrDayEndPreview{
+        background-color:aquamarine !important;
+        border: 1px solid #4d102e98 !important;
+    } */
